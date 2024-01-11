@@ -5,7 +5,7 @@ body {
   justify-content: center;
   height: 100vh;
   margin: 0;
-  background-image: linear-gradient(to right, #e90b0b, #f6fa0b);
+  background-image: linear-gradient(to bottom left , #00fbff, #008cfe);
 }
 
 .stopwatchcontainer {
